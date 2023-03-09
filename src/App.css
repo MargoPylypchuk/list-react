@@ -1,0 +1,26 @@
+.item {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+.app{
+  display: flex;
+}
+.text{
+  width: 100%;
+  padding: 10px 0;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+.input{
+  width: 100%
+}
+.right{
+  display: flex;
+}
+.close{
+  margin-left: 5px;
+}
